@@ -1,0 +1,37 @@
+{
+    "champs": [
+        {
+            "_id": 1,
+            "name": "Atrox",
+            "gender": "Male",
+            "position": "Top",
+            "species": "Darkin",
+            "resource": "Blood Well",
+            "range": "Melee",
+            "region": "Runeterra",
+            "release_year": 2013
+        },
+        {
+            "_id": 2,
+            "name": "Ahri",
+            "gender": "Female",
+            "position": "Mid",
+            "species": "Vastaya",
+            "resource": "Mana",
+            "range": "Ranged",
+            "region": "Ionia",
+            "release_year": 2011
+        },
+        {
+            "_id": 3,
+            "gender": "Female",
+            "name": "Akali",
+            "position": "Mid, Top",
+            "species": "Human",
+            "resource": "Energy",
+            "range": "Melee",
+            "region": "Ionia",
+            "release_year": 2010
+        }
+    ]
+}
