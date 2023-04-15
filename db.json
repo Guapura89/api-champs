@@ -519,6 +519,7 @@
         },
         {
             "_id": 48,
+            "name": "Kai'Sa",
             "gender": "Female",
             "position": "ADC",
             "species": "Human",
