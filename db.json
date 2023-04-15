@@ -135,7 +135,7 @@
         {
             "_id": 13,
             "name": "Blitzcrank",
-            "gender": "Male",
+            "gender": "Other",
             "position": "Support",
             "species": "Golem",
             "resource": "Mana",
@@ -200,7 +200,7 @@
         },
         {
             "_id": 19,
-            "name": "Cho'Gath",
+            "name": "ChoGath",
             "gender": "Male",
             "position": "Top",
             "species": "Voidborn",
@@ -244,7 +244,7 @@
         },
         {
             "_id": 23,
-            "name": "Dr. Mundo",
+            "name": "DrMundo",
             "gender": "Male",
             "position": "Top, Jungle",
             "species": "Human",
@@ -300,7 +300,7 @@
         {
             "_id": 28,
             "name": "Fiddlesticks",
-            "gender": "Male",
+            "gender": "Other",
             "position": "Jungle, Support",
             "species": "Scarecrow",
             "resource": "Mana",
@@ -464,7 +464,7 @@
         },
         {
             "_id": 43,
-            "name": "Jarvan IV",
+            "name": "JarvanIV",
             "gender": "Male",
             "position": "Top, Jungle",
             "species": "Human",
@@ -486,6 +486,7 @@
         },
         {
             "_id": 45,
+            "name": "Jayce",
             "gender": "Male",
             "position": "Top, Mid",
             "species": "Human",
@@ -616,7 +617,7 @@
         },
         {
             "_id": 57,
-            "name": "Kha'Zix",
+            "name": "KhaZix",
             "gender": "Male",
             "position": "Jungle",
             "species": "Voidreaver",
@@ -628,7 +629,7 @@
         {
             "_id": 58,
             "name": "Kindred",
-            "gender": "Non-binary",
+            "gender": "Other",
             "position": "Jungle",
             "species": "Spirit",
             "resource": "Mana",
@@ -649,7 +650,7 @@
         },
         {
             "_id": 60,
-            "name": "Kog'Maw",
+            "name": "KogMaw",
             "gender": "Male",
             "position": "ADC",
             "species": "Voidspawn",
@@ -671,7 +672,7 @@
         },
         {
             "_id": 62,
-            "name": "Lee Sin",
+            "name": "LeeSin",
             "gender": "Male",
             "position": "Jungle",
             "species": "Human",
@@ -781,7 +782,7 @@
         },
         {
             "_id": 72,
-            "name": "Master Yi",
+            "name": "MasterYi",
             "gender": "Male",
             "position": "Jungle",
             "species": "Human",
@@ -792,7 +793,7 @@
         },
         {
             "_id": 73,
-            "name": "Miss Fortune",
+            "name": "MissFortune",
             "gender": "Female",
             "position": "ADC",
             "species": "Human",
@@ -891,10 +892,10 @@
         },
         {
             "_id": 82,
-            "name": "Nunu & Willump",
+            "name": "Nunu",
             "gender": "Male",
             "position": "Jungle",
-            "species": "Human",
+            "species": "Human, Yeti",
             "resource": "Mana",
             "range": "Ranged, Melee",
             "region": "Freljord",
@@ -1012,7 +1013,7 @@
         },
         {
             "_id": 93,
-            "name": "Rek'Sai",
+            "name": "RekSai",
             "gender": "Female",
             "position": "Jungle",
             "species": "Void Burrower",
@@ -1276,7 +1277,7 @@
         },
         {
             "_id": 117,
-            "name": "Tahm Kench",
+            "name": "TahmKench",
             "gender": "Male",
             "position": "Support, Top",
             "species": "River King",
@@ -1375,7 +1376,7 @@
         },
         {
             "_id": 126,
-            "name": "Twisted Fate",
+            "name": "TwistedFate",
             "gender": "Male",
             "position": "Mid",
             "species": "Human",
@@ -1452,7 +1453,7 @@
         },
         {
             "_id": 133,
-            "name": "Vel'Koz",
+            "name": "VelKoz",
             "gender": "Male",
             "position": "Mid, Support",
             "species": "Voidborn",
@@ -1529,7 +1530,7 @@
         },
         {
             "_id": 140,
-            "name": "Wukong",
+            "name": "MonkeyKing",
             "gender": "Male",
             "position": "Top, Jungle",
             "species": "Vastayan",
@@ -1562,7 +1563,7 @@
         },
         {
             "_id": 143,
-            "name": "Xin Zhao",
+            "name": "XinZhao",
             "gender": "Male",
             "position": "Jungle, Top",
             "species": "Human",
